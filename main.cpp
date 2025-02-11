@@ -206,4 +206,5 @@ int main()
     cout<<"Diferenta simetrica (reuniunea disjuncta) dintre cele 2 liste: ";
     displayList(l7);
     cout<<endl;
+    return 0;
 }
